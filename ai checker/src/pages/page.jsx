@@ -8,7 +8,7 @@ function page() {
       
 
       <div className="ticks"></div>
-      <section id="spacer"></section>
+     
     </div>
   )
 }
